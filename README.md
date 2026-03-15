@@ -2,7 +2,7 @@
 
 A lightweight macOS menu bar utility for MacBook Pro / Air devices with a notch. Hover over the notch to reveal a live system stats panel that expands seamlessly from the hardware cutout.
 
-![FusionNotch panel](screenshot/Screenshot%202026-03-15%20at%203.13.47%20PM.png)
+![FusionNotch panel](screenshot/Screenshot%202026-03-15%20at%203.13.47%E2%80%AFPM.png)
 
 ## Features
 
